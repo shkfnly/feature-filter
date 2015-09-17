@@ -1,3 +1,5 @@
+This implementation of feature-filter allows for nested access into geojson properties, using an array of keys
+
 ## Filter
 
 Filter expressions are used to target specific data in a layer. This library implements the semantics specified by the [Mapbox GL JS spec](https://www.mapbox.com/mapbox-gl-style-spec/#filter).
